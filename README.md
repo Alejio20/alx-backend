@@ -1,1 +1,2 @@
-Repo for backnd tasks
+# To be updated
+# vim .gitignore unecessary files
